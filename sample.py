@@ -1,1 +1,2 @@
-"I don't believe in astroly. I'm saggitarius and they're skeptical."
+
+print("I don't believe in astrology. I'm saggitarius and they're skeptical.")
