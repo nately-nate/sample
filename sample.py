@@ -18,4 +18,7 @@ branch에 올라가기 전에도 여러 단계가 있다.
 stating area에서 commit을 해야 localrepo로 옮겨가고, 
 
 localrepo에서 최종적으로 remote repository로 push (sync를 하면 push가 이루어짐) 를 해야 github에 최종본이 등재된다. 
+
+그리고 Explorer에서 보이는 파일은 현재 컴퓨터에 로컬하게 저장된 파일이기도 하지만, 
+일단 repository를 연동해놓은 이상 remote repository와 현재 로컬에 있는 폴더의 내용물들은 push and pull하는 과정에서 자동으로 sync된다.
 '''
